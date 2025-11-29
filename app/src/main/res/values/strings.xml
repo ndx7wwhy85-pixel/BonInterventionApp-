@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Bon d\'Intervention</string>
+    <string name="title">Bon d\'Intervention</string>
+    <string name="photo_section">Photo</string>
+    <string name="take_photo">Prendre Photo</string>
+    <string name="select_from_gallery">Galerie</string>
+    <string name="no_photo">Aucune photo</string>
+    <string name="information_section">Informations</string>
+    <string name="date_label">DATE *</string>
+    <string name="time_label">HEURE *</string>
+    <string name="service_label">SERVICE *</string>
+    <string name="id_smv_label">ID SMV</string>
+    <string name="equipment_label">ÉQUIPEMENT</string>
+    <string name="description_section">Description *</string>
+    <string name="declarant_section">Déclarant *</string>
+    <string name="generate_pdf_button">Générer PDF et Partager</string>
+    <string name="photo_preview">Aperçu photo</string>
+    
+    <!-- Messages -->
+    <string name="photo_captured_success">Photo capturée avec succès</string>
+    <string name="photo_load_error">Erreur lors du chargement de la photo</string>
+    <string name="camera_permission_denied">Permission caméra refusée</string>
+    <string name="photo_loaded_success">Photo chargée avec succès</string>
+    <string name="enter_date">Entrez la date</string>
+    <string name="enter_time">Entrez l\'heure</string>
+    <string name="enter_service">Entrez le service</string>
+    <string name="enter_description">Entrez la description</string>
+    <string name="enter_declarant">Entrez le déclarant</string>
+    <string name="pdf_generation_error">Erreur lors de la génération du PDF: %s</string>
+    <string name="share_pdf_title">Partager PDF</string>
+    <string name="pdf_generated_success">PDF généré avec succès!</string>
+    <string name="whatsapp_button">WhatsApp</string>
+    <string name="other_button">Autre</string>
+    <string name="cancel_button">Annuler</string>
+    <string name="share_with">Partager le PDF avec...</string>
+    <string name="bon_intervention_text">Bon d\'Intervention</string>
+</resources>
